@@ -9,7 +9,7 @@
     "mongoose": "^4.6.5"
   },
   "scripts": {
-    "start": "NODE_PATH=. node bdown/app.js"
+    "start": "node bdown/app.js"
   },
   "author": "",
   "license": "ISC"
